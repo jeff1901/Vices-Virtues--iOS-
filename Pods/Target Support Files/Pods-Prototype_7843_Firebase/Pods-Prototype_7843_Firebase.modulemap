@@ -1,0 +1,6 @@
+framework module Pods_Prototype_7843_Firebase {
+  umbrella header "Pods-Prototype_7843_Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
