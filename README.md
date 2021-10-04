@@ -8,21 +8,21 @@ The app is integreted with firebase, and it will update automatically your list 
 ***
 
 
-### Vices Feature
-Here you can see how you can add your vices, select the money you normally spend per day, and voilà!
-Now you can 
-<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/imageedit_10_5892590726.gif width="300" />
+### Vices feature
+Here you can see how you can add your vices, select the money you normally spend per day, and voilà!😄
+<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/imageedit_10_5892590726.gif" width="300"/>
 
 ***
 
-### Vices Feature
-Here you can see how you can add your vices, select the money you normally spend per day, and voilà!
-Now you can 
-<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/imageedit_10_5892590726.gif" />
-
+### Virtues feature
+Here you can see how you can add your virtues.😄
+<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/imageedit_10_5892590726.gif" width="300"/>
 ***
 
-***
+### Edit & Delete feature
+Here you can see how you can add/edit your vices or virtues.
+Easy right? 😄
+<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/imageedit_10_5892590726.gif" width="300"/>***
 
 
 
