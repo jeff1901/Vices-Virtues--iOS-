@@ -1,10 +1,8 @@
 # Vices & Virtues
-###### Vices & Virtues is an IOS application that helps you to choose between different martini cocktails. Every cocktail page contains info and recipe of the cocktail with the option of adding a specific cocktail to your favourite list. SQLite has been implemented as a local database.
-###### The app requires minimum Android 5.1 Lollipop and is responsive to any screen
+##### Vices & Virtues is a pretty straightforward IOS application that helps you to track vices and virtues. You can track the days and the money saved in the vices tab and the days with your virtues in your virtues tab.
 
-### Splash Screen
-<img width="200" alt="SplashScreen" src="https://user-images.githubusercontent.com/70955537/131239740-de778cb9-5d39-44cc-b7e0-9550b6501c63.png">
-
+### Splash screen
+<img src="https://www4.lunapic.com/do-not-link-here-use-hosting-instead/163338714463772549?6954229182" width="200"/>
 ***
 
 ### HomePage
