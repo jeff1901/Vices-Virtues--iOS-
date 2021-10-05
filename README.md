@@ -3,7 +3,7 @@ Vices & Virtues is a pretty straightforward IOS application that helps you to tr
 The app is integreted with firebase, and it will update automatically your list details. (example vices list: money saved and day you quit)
 
 ### Splash screen
-<img src="https://www4.lunapic.com/do-not-link-here-use-hosting-instead/163338714463772549?6954229182" width="300"/>
+<img src="https://github.com/xhefribala/iOS_VicesAndVirtues_App/blob/master/Splashscreen.png" width="300"/>
 
 ***
 
